@@ -9,13 +9,13 @@ body {
 }
 
 .main {
-    background-image: url("/BG.jpg");
-    height: 644px;
+    background-image: url("./BG.jpg");
+    height: 900px;
     position: relative;
 }
 
 .main .box {
-    height: 644px;
+    height: 900px;
     width: 100%;
     opacity: 0.69;
     position: absolute;
@@ -84,7 +84,7 @@ nav button {
 }
 
 .btn {
-    padding: 3px 8px;
+    padding: 8px 15px;
     font-weight: 400;
     color: white;
     background-color: rgba(248, 243, 243, 0.021);
@@ -97,7 +97,7 @@ nav button {
 .btn-red {
     background-color: red;
     color: white;
-    padding: 3px 24px;
+    padding: 15px 30px;
     font-size: 20px;
     border-radius: 4px;
     font-weight: 400;
@@ -116,7 +116,7 @@ nav button {
 }
 
 .main input {
-    padding: 7px 101px 8px 14px;
+    padding: 10px 190px 30px 14px;
     color: white;
     font-size: 12px;
     border-radius: 4px;
